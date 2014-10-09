@@ -19,4 +19,3 @@ Proof.
   * reflexivity.
   * apply Zplus_0_r.
 Qed.
-
